@@ -22,7 +22,7 @@ yarn start <index>        # index (0-based) -> plate
 yarn start -r <PLATE>     # plate -> index
 ```
 
-Examples
+Examples:
 
 ```bash
 yarn start 0          # -> 000000
