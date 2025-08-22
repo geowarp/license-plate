@@ -1,4 +1,4 @@
-# license-plate
+# License-Plate Problem
 
 ## Requirements
 
@@ -31,3 +31,6 @@ yarn start 999999     # -> 999999
 yarn start 1000000    # -> 00000A
 yarn start -r 00000A  # -> 1000000
 ```
+## Question Statement
+<img width="782" height="873" alt="Screenshot 2025-08-22 at 17 29 34" src="https://github.com/user-attachments/assets/63d9ef24-bae9-41f8-80dd-33e53874dd7e" />
+
