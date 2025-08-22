@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-import { nthPlate, plateIndex, TOTAL_PLATES } from "./license-plate.js";
+import { nthPlate, plateIndex, TOTAL_PLATES } from "./plate-license.js";
 
 const args = process.argv.slice(2);
 
